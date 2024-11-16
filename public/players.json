@@ -1,0 +1,92 @@
+[
+    {
+      "playerId": "p01",
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/1JqC8GJ/kohli.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 20000
+    },
+    {
+      "playerId": "p02",
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/5L19S0g/download.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 18000
+    },
+    {
+      "playerId": "p03",
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/2drwXX1/Babar-Azam.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 17000
+    },
+    {
+      "playerId": "p04",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/NmmM2J6/Jasprit-Bumrah.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 22000
+    },
+    {
+      "playerId": "p05",
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/Rc9Gr2T/David-Warner.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 21000
+    },
+    {
+        "playerId": "p06",
+        "name": "AB de Villiers",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/dJgjddk/AB-de-Villiers.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 23000
+      },
+      {
+        "playerId": "p07",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/XLkR892/Kane-Williamson.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 1600000
+      },
+      {
+        "playerId": "p08",
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "image": "https://i.ibb.co.com/BjFvm7R/Andre-Russell.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 1900000
+      },
+      {
+        "playerId": "p09",
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/K005DJF/download-1.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": 1400000
+      }
+]
